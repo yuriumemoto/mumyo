@@ -1,0 +1,13 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght600&display=swap');
+body {
+    font-family: 'Shippori Mincho', serif;
+    color: #ffffff;
+}
+
