@@ -4,7 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght600&display=swap');
 body {
-    font-family: 'Shippori Mincho', serif;
+    font-family: 'Shippori Mincho', 'Hiragino Minchoi ProN', 'YuMincho', 'Yu Mincho', serif;
     color: #000000;
 }
 
@@ -16,4 +16,6 @@ border-width: 1px;
 color: #000000
 }
 
+a:hover { color: #ff0000; }
+a:active { color: #ff8000; }
 
