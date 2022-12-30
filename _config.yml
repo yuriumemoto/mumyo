@@ -21,7 +21,8 @@
 title: mumyo	
 email: q@mumyo.org
 description: >- # this means to ignore newlines until "baseurl:"
- mumyo (noun) 1. nameless, unnamed; 2. a group of musicians who is based in Japan to perform and compose contemporary musics since 2022. 
+  mumyo (noun) 1. nameless, unnamed; 2. a group of musicians based in Japan 
+  who produces and performes a variety of contemporary musics since 2022.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mumyo.org" # the base hostname & protocol for your site, e.g. http://example.com
 ###twitter_username: jekyllrb
