@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「mumyo」と「合同会社mumyo」
+title: 「mumyo」と「合同会社無名」
 permalink: /about/
 ---
 
@@ -21,7 +21,7 @@ permalink: /about/
 <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pillow_Book_illustrated6.JPG"><img width="512" alt="Pillow Book illustrated6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pillow_Book_illustrated6.JPG/512px-Pillow_Book_illustrated6.JPG"></a> (出典：枕草子絵巻)
 
 
-## 合同会社mumyo
+## 合同会社無名
 
 - 商号 合同会社無名 / mumyo llc
 - 本店所在地 東京都千代田区九段南1-5-6りそな九段ビル5階
