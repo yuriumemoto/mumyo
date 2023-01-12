@@ -10,5 +10,5 @@ categories: concert
 "Gothic and Lolita" - 11 Dec 2022, at Jimbocho "Shicho-shitsu", Tokyo
 
 - [プログラムノート HTML版](/docs/20221211_mumyo_program_note.html)
-- [プログラムノート PDF版](/docs/20221211_mumyo_program_note.pdf)
+<!--- - [プログラムノート PDF版](/docs/20221211_mumyo_program_note.pdf)  --/>
 
