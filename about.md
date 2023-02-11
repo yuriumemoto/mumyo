@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「mumyo」と「合同会社無名」
+title: mumyoと合同会社無名
 permalink: /about/
 ---
 
