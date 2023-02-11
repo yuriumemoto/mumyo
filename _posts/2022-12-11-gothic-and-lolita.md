@@ -5,7 +5,7 @@ date:   2022-12-11 18:30:00 +0900
 categories: concert
 ---
 
-2022年12月11日 "ゴシック・アンド・ロリータ" プレコンサート (神保町・試聴室)
+2022年12月11日に実施した "ゴシック・アンド・ロリータ" プレコンサートの記録です。
 
 "Gothic and Lolita" - 11 Dec 2022, at Jimbocho "Shicho-shitsu", Tokyo
 
