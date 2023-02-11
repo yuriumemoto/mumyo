@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gothic and Lolita"
+title:  "2022年12月11日 ゴシック・アンド・ロリータ” プレコンサート (神保町・試聴室)"
 date:   2022-12-11 18:30:00 +0900
 categories: concert
 ---
