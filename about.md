@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-mumyo（ムミョウ）は、作曲家の[山根明季子](https://akikoyamane.com/)、[梅本佑利](https://www.yuriumemoto.com/)、ヴァイオリニストの[成田達輝](https://tatsukinarita.com/)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
+mumyo（ムミョウ）は、作曲家の[山根明季子](/about#山根明季子)、[梅本佑利](/about#梅本佑利)、ヴァイオリニストの[成田達輝](/about#成田達輝)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
 
 「mumyo」は、[坂本龍一氏（音楽家）](http://www.sitesakamoto.com/biography)による命名で、枕草子に登場する一条天皇の琵琶の故事（三巻本89段）に基づきます。
 
