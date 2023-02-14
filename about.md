@@ -3,11 +3,18 @@ layout: page
 title: about
 permalink: /about/
 ---
-mumyo（ムミョウ）は、作曲家の[山根明季子](/about#山根明季子)、[梅本佑利](/about#梅本佑利)、ヴァイオリニストの[成田達輝](/about#成田達輝)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
+mumyo（ムミョウ）は、作曲家の[山根明季子](/artists#山根明季子)、[梅本佑利](/artists#梅本佑利)、ヴァイオリニストの[成田達輝](/artists#成田達輝)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
 
 「mumyo」は、[坂本龍一氏（音楽家）](http://www.sitesakamoto.com/biography)による命名で、枕草子に登場する一条天皇の琵琶の故事（三巻本89段）に基づきます。
 
-> 無名といふ琵琶の御琴を上の持てわたらせたまへるに　見などして掻き鳴らしなどすと言へば　弾くにはあらで緒などを手まさぐりにして　これが名よいかにとかと聞えさするに　ただいとはかなく名もなしと　のたまはせたるは　なほいとめでたしとこそ覚えしか
+```
+無名といふ琵琶の御琴を上の持てわたらせたまへるに　
+見などして掻き鳴らしなどすと言へば　
+弾くにはあらで緒などを手まさぐりにして　
+これが名よいかにとかと聞えさするに　
+ただいとはかなく名もなしと　のたまはせたるは　
+なほいとめでたしとこそ覚えしか
+```
 
 <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pillow_Book_illustrated6.JPG"><img width="512" alt="Pillow Book illustrated6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pillow_Book_illustrated6.JPG/512px-Pillow_Book_illustrated6.JPG"></a> (出典：枕草子絵巻)
 
